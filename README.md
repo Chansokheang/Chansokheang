@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chan Sokheang</h1>
 <h3 align="center">A passionate AI/ML developer from Cambodian.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chansokheang" alt="chansokheang" /></a> </p>
-
 - 📫 How to reach me **heangs770@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -33,3 +31,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chansokheang&show_icons=true&locale=en" alt="chansokheang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chansokheang&" alt="chansokheang" /></p>
+
